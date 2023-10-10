@@ -1,0 +1,23 @@
+_repo: Twilight-stories_71824
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Shaw, Catharine
+    gutenberg_agent_id: '38947'
+    url: http://www.gutenberg.org/2009/agents/38947
+description: ''
+gutenberg_issued: '2023-10-06'
+identifiers:
+  gutenberg: '71824'
+language: en
+pgterms:marc905: 20231002173246shaw
+pgterms:marc906: '1904'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bJohn F. Shaw & Co., Ltd., $c1904.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Twilight stories
+url: http://www.gutenberg.org/ebooks/71824
