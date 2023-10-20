@@ -1,11 +1,16 @@
 _repo: Twilight-stories_71824
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Shaw, Catharine
     gutenberg_agent_id: '38947'
     url: http://www.gutenberg.org/2009/agents/38947
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71824#Twilight-stories
 gutenberg_issued: '2023-10-06'
 identifiers:
   gutenberg: '71824'
